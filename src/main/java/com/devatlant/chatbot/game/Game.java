@@ -53,7 +53,7 @@ public class Game {
     }
 
     public static boolean isInteger(String str, int radix) {
-        if(str== null || str.length() == 0) return false;
+        if(str == null || str.length() == 0) return false;
         for(int i = 0; i < str.length(); i++) {
             if(i == 0 && str.charAt(i) == '-') {
                 if(str.length() == 1) return false;
