@@ -25,3 +25,34 @@ This project uses under the hood a popular java abstraction library for accessin
 ![screenshot](https://raw.githubusercontent.com/devatlant/chat-bot-game/master/res/telegram_screenshot.jpg)
 
 ## Test from git and Vim
+
+
+# My experience
+
+## Data analyst in WhiteBIT 
+
+> March 2020 – June 2020
+>> Main responsibilities:
+* compilation of technical specifications for programmers;
+* setting dashboards for marketing channels and main KPI;
+* product analyst;
+* web analyst;
+* SMM analyst;
+* google analyst, setting utm tags and triggers;
+* searching a problem and finding a solution to improve performance in website traffic analytics;
+* processing larger data arrays, SQL requests and storing received information, data visualization
+
+## Web analyst in Promodo 
+
+> March 2020 – June 2020
+>> Main responsibilities:
+* compilation of technical specifications for programmers;
+* setting dashboards for marketing channels and main KPI;
+* product analyst;
+* web analyst;
+* SMM analyst;
+* google analyst, setting utm tags and triggers;
+* searching a problem and finding a solution to improve performance in website traffic analytics;
+* processing larger data arrays, SQL requests and storing received information, data visualization
+
+
